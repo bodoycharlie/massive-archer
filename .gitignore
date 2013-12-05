@@ -1,0 +1,15 @@
+You can merge this Pull Request by running
+  git pull https://github.com/tcort/How-to-Make-a-Computer-Operating-System spelling
+Or view, comment on, or merge it at:
+  https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/22
+Commit Summary
+Spelling fixes.
+File Changes
+M Chapter-1/README.md (2)
+M Chapter-3/README.md (6)
+M Chapter-5/README.md (6)
+M Chapter-6/README.md (4)
+M Chapter-7/README.md (6)
+Patch Links:
+https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/22.patch
+https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/22.diff
